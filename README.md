@@ -1,4 +1,9 @@
 hello-world
 ===========
 
-Just another repository
+
+Hi Humans!
+
+Naoto here, I like C++.
+
+"hogehoge" is the word witch Programmers use when he stop thinking.
